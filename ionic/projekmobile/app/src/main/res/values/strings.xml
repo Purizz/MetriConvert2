@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">projekmobile</string>
+    <!-- res/values/strings.xml -->
+    <string name="select_metric">Pilih Metrik</string>
+    <string name="app_title">Metric Converter</string>
+    <string name="author_name">By: Yoon Hyun Min</string>
+    <string name="from_label">Dari:</string>
+    <string name="to_label">Ke:</string>
+    <string name="input_hint">Masukkan nilai awal</string>
+    <string name="conversion_result">Hasil Konversi:</string>
+</resources>
